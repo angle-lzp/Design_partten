@@ -6,5 +6,6 @@ come on
 git stash
 
 
-
 dagedage
+
+all
